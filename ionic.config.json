@@ -1,0 +1,7 @@
+{
+  "name": "my-priorities",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
